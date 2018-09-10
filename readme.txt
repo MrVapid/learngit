@@ -1,3 +1,3 @@
 Get is a distrbuted version control system.
-Git is free good software.
+Git is free good software under the GPL.
 
